@@ -18,4 +18,7 @@
 • 3 páginas: Home, Produtos, Quem somos
 
 > Exemplos de alguns protótipos criados:
- <img width="100%" height="350px" src="/propotipo/1.JPG">
+ <br>
+ <img src="./prototipo/1.JPG">
+ <img src="./prototipo/2.JPG">
+  <img src="./prototipo/3.JPG">
